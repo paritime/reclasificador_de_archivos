@@ -1,5 +1,5 @@
 # Reclasificador_de_archivos
-Pequeña aplicación desarrollada en python,para reclasificación de archivos en windows, con interfaz en streamlit.
+Aplicación desarrollada en python,para reclasificación de archivos en windows, con interfaz en streamlit.
 
 Esta aplicación permite renombrar archivos masivamente basándose en un listado de Excel, o limpiar nombres de archivos eliminando prefijos numéricos. Es ideal para organizar documentos de forma automatizada.
 
